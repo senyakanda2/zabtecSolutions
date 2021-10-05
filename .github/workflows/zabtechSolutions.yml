@@ -1,4 +1,4 @@
-name: amazonRDP
+name: zabtechSolutionsRDP
 
 on: workflow_dispatch
 
